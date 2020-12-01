@@ -37,4 +37,4 @@ $('#p').attr('class','red') //如果存在就是修改，如果不存在就是�
 $('#p').removeAttr('name') //删除某个属性
 $('#p').addClass('blue') //添加class名称
 ```
-PS：
+PS：以上内容部分参考阮一峰[jQuery设计思想](http://www.ruanyifeng.com/blog/2011/07/jquery_fundamentals.html)
