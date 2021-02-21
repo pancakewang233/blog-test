@@ -80,4 +80,3 @@ window.Object 是一个函数对象，这个「函数对象」的构造函数是
 window.Function 是一个函数对象，这个「函数对象」的构造函数是Function， __proto__是Function.prototype
 所有「函数对象」的「构造函数」都是 Function
 
-PS：以上内容部分参考[饥人谷](https://xiedaimala.com/)
